@@ -2,4 +2,4 @@
 地址
 https://github.moeyy.xyz/
 https://gh.llkk.cc/
-https://ghp.ci/
+https://gh-proxy.com/
