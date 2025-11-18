@@ -203,4 +203,3 @@ CCTV14少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index
 5893,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225893/index.m3u8?servicetype=1
 5896,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225896/index.m3u8?servicetype=1
 5805,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225805/index.m3u8?servicetype=1
-高速下载
