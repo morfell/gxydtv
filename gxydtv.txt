@@ -8,7 +8,7 @@
 南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226337/index.m3u8?servicetype=1
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
-南宁公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1&http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226340/index.m3u8?servicetype=1
+南宁公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226340/index.m3u8?servicetype=1
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1
 广西综艺旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226409/index.m3u8?servicetype=1
